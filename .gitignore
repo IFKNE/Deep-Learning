@@ -1,0 +1,33 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook 缓存
+.ipynb_checkpoints/
+
+# 常见深度学习模型/数据目录
+*.pt
+*.pth
+*.pkl
+*.onnx
+data/
+checkpoints/
+runs/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+.conda/
+.env
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 其他
+*.log
+*.bak
